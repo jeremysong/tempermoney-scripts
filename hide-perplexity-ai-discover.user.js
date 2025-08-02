@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Hide the discovery sidebar on Perplexity AI
-// @author       You
+// @author       Jeremy Song
 // @match        https://www.perplexity.ai/*
 // @grant        none
 // ==/UserScript==
